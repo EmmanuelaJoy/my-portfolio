@@ -76,7 +76,7 @@ ol {
 }
 
 #code {
-  height: 200px;
+  height: 170px;
   width: 300px;
   float: left;
 }
@@ -85,12 +85,12 @@ span {
   font-size: 28px;
 }
 
-hr {
+hr.project {
   border: dotted;
 }
 
 #travel {
-  height: 200px;
+  height: 170px;
   width: 300px;
   float: left;
 }
