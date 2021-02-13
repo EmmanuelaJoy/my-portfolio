@@ -38,3 +38,15 @@ h3 {
   letter-spacing: 5;
   font-size: 30px;
 }
+
+.icons {
+  font-size: 40px;
+}
+
+.icons a {
+  color: white;
+}
+
+.icons a :hover {
+  color: rgb(47, 137, 221);
+}
