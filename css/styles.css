@@ -99,3 +99,7 @@ hr.project {
   font-size: 25px;
   pointer-events: none;
 }
+
+# {
+  color: yellow;
+}
