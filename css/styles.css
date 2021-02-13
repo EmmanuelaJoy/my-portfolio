@@ -54,10 +54,10 @@ h3 {
 .boxed {
   border: 1px solid white;
   background-color: orangered;
-  height: 70px;
+  height: 30px;
   text-align: auto;
   font-size: 20px;
-  padding: 40px solid blue;
+  padding: 40px;
 }
 
 p {
