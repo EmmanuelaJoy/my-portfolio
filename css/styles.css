@@ -48,5 +48,14 @@ h3 {
 }
 
 .icons a :hover {
-  color: rgb(47, 137, 221);
+  color: gray;
+}
+
+.boxed {
+  border: 1px solid white;
+  background-color: orangered;
+  height: 70px;
+  text-align: center;
+  font-size: 20px;
+  padding: 40px solid blue;
 }
