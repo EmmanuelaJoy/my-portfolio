@@ -8,7 +8,7 @@ body {
 
 .box {
   width: 1000px;
-  height: 2000px;
+  height: 3000px;
   background-color: black;
   padding: 60px;
   color: white;
@@ -76,7 +76,21 @@ ol {
 }
 
 #code {
-  height: 300px;
-  width: 400px;
+  height: 200px;
+  width: 300px;
+  float: left;
+}
+
+span {
+  font-size: 28px;
+}
+
+hr {
+  border: dotted;
+}
+
+#travel {
+  height: 200px;
+  width: 300px;
   float: left;
 }
