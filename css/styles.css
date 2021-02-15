@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(255, 0, 0, 0.733);
+  background-image: url(/images/Abstract-Geometric-Background-Red.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -9,7 +9,7 @@ body {
 .box {
   width: 1000px;
   height: 2500px;
-  background-color: black;
+  background-color: rgb(151, 57, 57);
   padding: 60px;
   color: white;
   margin: 0 auto;
@@ -22,7 +22,7 @@ body {
   height: 300px;
   width: 300px;
   border-style: solid;
-  border-color: white;
+  border-color: rgb(180, 102, 102);
   border-width: 4px;
   border-radius: 50%;
 }
@@ -50,11 +50,10 @@ h3 {
 .icons a :hover {
   color: rgb(67, 155, 238);
 }
-
 .boxed {
   border: 1px solid white;
-  background-color: orangered;
-  height: 30px;
+  background-color: rgb(180, 102, 102);
+  height: 25px;
   text-align: auto;
   font-size: 20px;
   padding: 40px;
@@ -64,13 +63,12 @@ p {
   font-size: 25px;
   font-style: normal;
   font-family: cursive;
+
   letter-spacing: 10;
 }
-
 a {
-  color: rgb(67, 155, 238);
+  color: rgb(196, 175, 223);
 }
-
 ol {
   list-style: none;
   font-size: 25px;
@@ -78,27 +76,22 @@ ol {
   letter-spacing: 10;
   font-style: italic;
 }
-
 #code {
   height: 230px;
   width: 300px;
   float: left;
 }
-
 span {
   font-size: 28px;
 }
-
 hr.project {
   border: dotted;
 }
-
 #travel {
   height: 230px;
   width: 300px;
   float: left;
 }
-
 .hobbies {
   font-size: 25px;
   pointer-events: none;
