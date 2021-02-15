@@ -1,17 +1,17 @@
-# WebPage
+# Moringa Project 1
 
-<h1>My First Webpage</h1>
+<h1>My Portfolio</h1>
 <table>
 <tr>
 <td>
-  A webpage displaying some of the things i am going to learn about coding and what i have learnt so far.
+  A webpage displaying information about me such as my background,my projects and my hobbies.
 </td>
 </tr>
 </table>
 
 ## Demo
 
-Here is a working live demo : https://emmanuelajoy.github.io/my-first-webpage/
+Here is a working live demo : https://emmanuelajoy.github.io/my-portfolio/
 
 ### Development
 
@@ -40,12 +40,12 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## To-do
 
-- Add more CSS styling features.
+- Add responsive design feature.
 
 ## Team
 
 [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
 
-## [License](https://github.com/EmmanuelaJoy/my-first-webpage/blob/main/LICENSE)
+## [License](https://github.com/EmmanuelaJoy/my-portfolio/blob/main/LICENSE)
 
 MIT © [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
