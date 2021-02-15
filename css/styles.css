@@ -22,8 +22,8 @@ body {
   height: 300px;
   width: 300px;
   border-style: solid;
-  border-color: rgb(180, 102, 102);
-  border-width: 4px;
+  border-color: white;
+  border-width: 2px;
   border-radius: 50%;
 }
 
@@ -48,8 +48,9 @@ h3 {
 }
 
 .icons a :hover {
-  color: rgb(67, 155, 238);
+  color: rgb(175, 169, 169);
 }
+
 .boxed {
   border: 1px solid white;
   background-color: rgb(180, 102, 102);
@@ -63,12 +64,13 @@ p {
   font-size: 25px;
   font-style: normal;
   font-family: cursive;
-
   letter-spacing: 10;
 }
+
 a {
-  color: rgb(196, 175, 223);
+  color: rgb(175, 169, 169);
 }
+
 ol {
   list-style: none;
   font-size: 25px;
@@ -76,22 +78,27 @@ ol {
   letter-spacing: 10;
   font-style: italic;
 }
+
 #code {
   height: 230px;
   width: 300px;
   float: left;
 }
+
 span {
   font-size: 28px;
 }
+
 hr.project {
   border: dotted;
 }
+
 #travel {
   height: 230px;
   width: 300px;
   float: left;
 }
+
 .hobbies {
   font-size: 25px;
   pointer-events: none;
